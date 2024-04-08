@@ -1,13 +1,6 @@
 <h1 align="left">Hi 👋, I'm Aidin Asl Zaeim</h1>
 <h3 align="left"> Currently Trying Django as a Developer...</h3>
 
-
-
-
-
-<img align="left" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="https://www.linkedin.com/in/aidinzaeim?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3by5k38jx%2briwd3mmepvyyga%3d%3d" height="1" width="100%" />
-
-
 </p>
 <h3 align="left">Languages and Tools:</h3> 
 
@@ -30,9 +23,6 @@
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
 </a> 
-
-<img align="center" src=https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif height="1" width="100%" />
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
